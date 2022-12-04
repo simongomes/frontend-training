@@ -27,17 +27,13 @@ Create the eCommerce Website using HTML, CSS & JavaScript.
 
 ## Phase 2
 
-<hr>
-
 Convert the eCommerce Website to a Reeact App
 
 ## Phase 3
-
-<hr>
 
 State management using Redux
 
 ## API TO USE
 
 <hr>
-[https://dummyjson.com/docs/products](https://dummyjson.com/docs/products)
+[!https://dummyjson.com/docs/products](https://dummyjson.com/docs/products)
