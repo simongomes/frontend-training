@@ -25,4 +25,4 @@ Convert the eCommerce Website to a Reeact App
 State management using Redux
 
 ## API TO USE
-[!https://dummyjson.com/docs/products](https://dummyjson.com/docs/products)
+[https://dummyjson.com/docs/products](https://dummyjson.com/docs/products)
